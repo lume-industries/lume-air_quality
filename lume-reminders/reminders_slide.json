@@ -1,0 +1,19 @@
+{
+  "abi_version": 1,
+  "assets": {
+    "scenes": [
+      {
+        "compile_profile": "default_world",
+        "id": "reminders_backdrop",
+        "label": "RemindersBackdrop",
+        "path": "assets/world.glb"
+      }
+    ]
+  },
+  "author": "LUME",
+  "description": "Reminders screen slide compiled from Rust to wasm32-wasip1",
+  "name": "Reminders",
+  "params": {},
+  "scene_space": "screen_2d",
+  "version": "1.0.0"
+}

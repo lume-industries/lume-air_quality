@@ -1,0 +1,9 @@
+# Shared workspace build artifacts
+target/
+
+# These slides are independent git repositories managed separately
+lume-clock/
+lume-clock-retro/
+
+# lume-air_quality has an unconventional layout and is excluded from the workspace
+lume-air_quality/

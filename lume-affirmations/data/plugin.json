@@ -1,0 +1,447 @@
+{
+  "id": "affirmations",
+  "name": "Affirmations",
+  "description": "Daily affirmations display",
+  "version": "1.0.0",
+  "core": true,
+  "enabled": true,
+  "jobs": [],
+  "slides": [
+    {
+      "name": "Affirmation",
+      "background": "shimmer",
+      "border": {
+        "ornaments": true
+      },
+      "data": {
+        "inline": [
+          {
+            "text": "Today I choose to begin, imperfectly and enthusiastically.",
+            "author": ""
+          },
+          {
+            "text": "My worth is not measured by how much I produce.",
+            "author": ""
+          },
+          {
+            "text": "Rest is not the opposite of productivity \u2014 it is the foundation of it.",
+            "author": ""
+          },
+          {
+            "text": "I am allowed to take up space.",
+            "author": ""
+          },
+          {
+            "text": "Small steps taken consistently create big change.",
+            "author": ""
+          },
+          {
+            "text": "I do not need to have everything figured out to move forward.",
+            "author": ""
+          },
+          {
+            "text": "The people who love me accept me as I am.",
+            "author": ""
+          },
+          {
+            "text": "I can hold uncertainty without being undone by it.",
+            "author": ""
+          },
+          {
+            "text": "My past does not determine my future.",
+            "author": ""
+          },
+          {
+            "text": "I am learning, growing, and that is enough.",
+            "author": ""
+          },
+          {
+            "text": "Comparison is the thief of joy \u2014 I run my own race.",
+            "author": ""
+          },
+          {
+            "text": "Today's effort is tomorrow's foundation.",
+            "author": ""
+          },
+          {
+            "text": "It is okay to ask for help.",
+            "author": ""
+          },
+          {
+            "text": "I release what I cannot control.",
+            "author": ""
+          },
+          {
+            "text": "My attention is a resource I protect wisely.",
+            "author": ""
+          },
+          {
+            "text": "I am not behind. I am exactly where I need to be.",
+            "author": ""
+          },
+          {
+            "text": "Discomfort is often a sign that I am growing.",
+            "author": ""
+          },
+          {
+            "text": "I choose curiosity over anxiety when facing the unknown.",
+            "author": ""
+          },
+          {
+            "text": "Good enough, done, is better than perfect, never.",
+            "author": ""
+          },
+          {
+            "text": "The right people will appreciate the real me.",
+            "author": ""
+          },
+          {
+            "text": "I breathe in calm. I breathe out tension.",
+            "author": ""
+          },
+          {
+            "text": "I have survived every difficult day so far.",
+            "author": ""
+          },
+          {
+            "text": "Joy is allowed to coexist with ambition.",
+            "author": ""
+          },
+          {
+            "text": "I am worthy of the goals I am chasing.",
+            "author": ""
+          },
+          {
+            "text": "My body deserves care, not punishment.",
+            "author": ""
+          },
+          {
+            "text": "Progress, not perfection, is my aim today.",
+            "author": ""
+          },
+          {
+            "text": "I trust the timing of my life.",
+            "author": ""
+          },
+          {
+            "text": "Every day I choose who I want to become.",
+            "author": ""
+          },
+          {
+            "text": "I am capable of handling what comes my way.",
+            "author": ""
+          },
+          {
+            "text": "I give myself permission to change my mind.",
+            "author": ""
+          },
+          {
+            "text": "Connection matters more than being right.",
+            "author": ""
+          },
+          {
+            "text": "I am not defined by my worst days.",
+            "author": ""
+          },
+          {
+            "text": "Gratitude turns what I have into enough.",
+            "author": ""
+          },
+          {
+            "text": "I bring value to the people around me.",
+            "author": ""
+          },
+          {
+            "text": "Momentum builds from one small action.",
+            "author": ""
+          },
+          {
+            "text": "I can be both kind and firm.",
+            "author": ""
+          },
+          {
+            "text": "The version of me working on hard things is admirable.",
+            "author": ""
+          },
+          {
+            "text": "I deserve the same compassion I give to others.",
+            "author": ""
+          },
+          {
+            "text": "Showing up is itself an act of courage.",
+            "author": ""
+          },
+          {
+            "text": "I choose how I interpret what happens to me.",
+            "author": ""
+          },
+          {
+            "text": "My energy is precious and I invest it intentionally.",
+            "author": ""
+          },
+          {
+            "text": "I am allowed to enjoy the journey, not just the destination.",
+            "author": ""
+          },
+          {
+            "text": "Consistency in small things creates extraordinary results.",
+            "author": ""
+          },
+          {
+            "text": "I know my own mind and I trust it.",
+            "author": ""
+          },
+          {
+            "text": "I am not obligated to be the person I was yesterday.",
+            "author": ""
+          },
+          {
+            "text": "Saying no to the wrong things opens space for the right ones.",
+            "author": ""
+          },
+          {
+            "text": "I wake up with intention.",
+            "author": ""
+          },
+          {
+            "text": "The way I talk to myself matters.",
+            "author": ""
+          },
+          {
+            "text": "I find meaning in ordinary moments.",
+            "author": ""
+          },
+          {
+            "text": "Being present is a gift to myself and others.",
+            "author": ""
+          },
+          {
+            "text": "I commit to what matters and release what doesn't.",
+            "author": ""
+          },
+          {
+            "text": "I am resilient. I have proven this before.",
+            "author": ""
+          },
+          {
+            "text": "My feelings are valid, and I can still choose my actions.",
+            "author": ""
+          },
+          {
+            "text": "Sleep, food, and movement are not optional luxuries.",
+            "author": ""
+          },
+          {
+            "text": "I invite abundance by showing up fully.",
+            "author": ""
+          },
+          {
+            "text": "I am more than my productivity.",
+            "author": ""
+          },
+          {
+            "text": "Every setback contains a lesson I am ready to learn.",
+            "author": ""
+          },
+          {
+            "text": "I give myself time to adjust to change.",
+            "author": ""
+          },
+          {
+            "text": "My future self is cheering for the choices I make today.",
+            "author": ""
+          },
+          {
+            "text": "I release the need to be everything to everyone.",
+            "author": ""
+          },
+          {
+            "text": "I am patient with myself as I grow.",
+            "author": ""
+          },
+          {
+            "text": "I notice beauty in unexpected places.",
+            "author": ""
+          },
+          {
+            "text": "Hard days are temporary. My character is built by how I meet them.",
+            "author": ""
+          },
+          {
+            "text": "I am surrounded by people who want to see me succeed.",
+            "author": ""
+          },
+          {
+            "text": "Each morning is a clean slate.",
+            "author": ""
+          },
+          {
+            "text": "I choose thoughts that serve me.",
+            "author": ""
+          },
+          {
+            "text": "I honour my commitments, starting with the ones I make to myself.",
+            "author": ""
+          },
+          {
+            "text": "I am not waiting to be ready \u2014 I begin.",
+            "author": ""
+          },
+          {
+            "text": "Imperfect action beats perfect inaction.",
+            "author": ""
+          },
+          {
+            "text": "I find clarity when I slow down.",
+            "author": ""
+          },
+          {
+            "text": "The best investment I can make is in my own wellbeing.",
+            "author": ""
+          },
+          {
+            "text": "I am generous with gratitude and specific with praise.",
+            "author": ""
+          },
+          {
+            "text": "What I focus on grows.",
+            "author": ""
+          },
+          {
+            "text": "I hold my goals lightly and my values tightly.",
+            "author": ""
+          },
+          {
+            "text": "I trust myself to figure things out.",
+            "author": ""
+          },
+          {
+            "text": "Deep work done with care is enough for today.",
+            "author": ""
+          },
+          {
+            "text": "I do not need external validation to know my own worth.",
+            "author": ""
+          },
+          {
+            "text": "Every expert was once a beginner.",
+            "author": ""
+          },
+          {
+            "text": "I am the author of my own story.",
+            "author": ""
+          },
+          {
+            "text": "I face fear with curiosity instead of avoidance.",
+            "author": ""
+          },
+          {
+            "text": "I invest in the relationships that bring out the best in me.",
+            "author": ""
+          },
+          {
+            "text": "I speak my truth with kindness.",
+            "author": ""
+          },
+          {
+            "text": "One thing at a time, done well.",
+            "author": ""
+          },
+          {
+            "text": "I finish what I start, and I start with intention.",
+            "author": ""
+          },
+          {
+            "text": "I celebrate small wins as fiercely as big ones.",
+            "author": ""
+          },
+          {
+            "text": "The life I want is built in the ordinary days.",
+            "author": ""
+          },
+          {
+            "text": "I am becoming who I was meant to be.",
+            "author": ""
+          },
+          {
+            "text": "My mistakes have made me more empathetic, not less worthy.",
+            "author": ""
+          },
+          {
+            "text": "I am curious, not just busy.",
+            "author": ""
+          },
+          {
+            "text": "I let people in.",
+            "author": ""
+          },
+          {
+            "text": "What I practice daily I become.",
+            "author": ""
+          },
+          {
+            "text": "I approach this day with openness and intention.",
+            "author": ""
+          },
+          {
+            "text": "Kindness costs nothing and changes everything.",
+            "author": ""
+          },
+          {
+            "text": "I act from values, not from fear.",
+            "author": ""
+          },
+          {
+            "text": "The world is better with me in it, being my full self.",
+            "author": ""
+          },
+          {
+            "text": "I can begin again, any moment, any day.",
+            "author": ""
+          },
+          {
+            "text": "Today I choose growth over comfort.",
+            "author": ""
+          },
+          {
+            "text": "I am enough, right now, as I am.",
+            "author": ""
+          }
+        ],
+        "shuffle": true
+      },
+      "elements": [
+        {
+          "type": "icon",
+          "x": 128,
+          "y": 22,
+          "name": "heart",
+          "scale": 2
+        },
+        {
+          "type": "dialog",
+          "x": 16,
+          "y": 50,
+          "w": 224,
+          "h": 130,
+          "text_field": "text",
+          "author_field": "author",
+          "pick": "random",
+          "wrap_width": 15,
+          "colors": {
+            "background": [
+              0.05,
+              0,
+              0.05,
+              0.92
+            ],
+            "border": "magenta",
+            "text": "white",
+            "author": "pink",
+            "corners": "magenta"
+          }
+        }
+      ]
+    }
+  ]
+}

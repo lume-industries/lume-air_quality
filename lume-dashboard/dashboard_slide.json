@@ -1,0 +1,19 @@
+{
+  "abi_version": 1,
+  "assets": {
+    "scenes": [
+      {
+        "compile_profile": "default_world",
+        "id": "dashboard_scene",
+        "label": "DashboardBackdrop",
+        "path": "assets/world.glb"
+      }
+    ]
+  },
+  "author": "LUME",
+  "description": "Dashboard screen slide compiled from Rust to wasm32-wasip1",
+  "name": "Dashboard",
+  "params": {},
+  "scene_space": "screen_2d",
+  "version": "1.0.0"
+}

@@ -1,0 +1,24 @@
+{
+  "servers": [
+    {
+      "name": "GitHub API",
+      "region": "global",
+      "check_type": "http",
+      "url": "https://api.github.com/"
+    },
+    {
+      "name": "Cloudflare DNS",
+      "region": "global",
+      "check_type": "tcp",
+      "host": "1.1.1.1",
+      "port": 53,
+      "timeout_ms": 5000
+    },
+    {
+      "name": "DuckDuckGo",
+      "region": "us",
+      "check_type": "http",
+      "url": "https://duckduckgo.com/"
+    }
+  ]
+}

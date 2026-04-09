@@ -1,0 +1,19 @@
+{
+  "abi_version": 1,
+  "assets": {
+    "scenes": [
+      {
+        "compile_profile": "default_world",
+        "id": "did_you_know_backdrop",
+        "label": "DidYouKnowBackdrop",
+        "path": "assets/world.glb"
+      }
+    ]
+  },
+  "author": "LUME",
+  "description": "Did You Know screen slide compiled from Rust to wasm32-wasip1",
+  "name": "Did You Know",
+  "params": {},
+  "scene_space": "screen_2d",
+  "version": "1.0.0"
+}

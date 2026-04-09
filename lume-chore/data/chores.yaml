@@ -1,0 +1,141 @@
+# Chore list for the "Chore of the Hour" dashboard slide.
+#
+# Each chore gets a weight — higher weight = picked more often.
+# Keep this list to things you can actually do in one short burst.
+# Edit freely. Run `python3 chore_picker.py` to test the current pick.
+
+chores:
+  # Kitchen
+  - name: Wipe down the kitchen bench
+    category: kitchen
+    duration: 2 min
+    weight: 3
+
+  - name: Wash the dishes in the sink
+    category: kitchen
+    duration: 5 min
+    weight: 3
+
+  - name: Clean out the kitchen sink
+    category: kitchen
+    duration: 3 min
+    weight: 2
+
+  - name: Wipe down the stovetop
+    category: kitchen
+    duration: 3 min
+    weight: 2
+
+  - name: Empty the dishwasher
+    category: kitchen
+    duration: 4 min
+    weight: 2
+
+  - name: Wipe down the microwave inside
+    category: kitchen
+    duration: 3 min
+    weight: 1
+
+  - name: Take out the rubbish
+    category: waste
+    duration: 2 min
+    weight: 3
+
+  - name: Take out the recycling
+    category: waste
+    duration: 2 min
+    weight: 2
+
+  - name: Replace the bin liner
+    category: waste
+    duration: 1 min
+    weight: 2
+
+  # Floors / surfaces
+  - name: Vacuum the lounge room
+    category: floors
+    duration: 5 min
+    weight: 2
+
+  - name: Sweep the kitchen floor
+    category: floors
+    duration: 3 min
+    weight: 2
+
+  - name: Mop the kitchen floor
+    category: floors
+    duration: 5 min
+    weight: 1
+
+  - name: Clear clutter off the coffee table
+    category: tidying
+    duration: 2 min
+    weight: 3
+
+  - name: Clear clutter off the dining table
+    category: tidying
+    duration: 2 min
+    weight: 3
+
+  - name: Put away things on the floor
+    category: tidying
+    duration: 3 min
+    weight: 3
+
+  # Bathroom
+  - name: Wipe down the bathroom basin
+    category: bathroom
+    duration: 2 min
+    weight: 2
+
+  - name: Clean the toilet
+    category: bathroom
+    duration: 3 min
+    weight: 2
+
+  - name: Wipe down the bathroom mirror
+    category: bathroom
+    duration: 1 min
+    weight: 1
+
+  - name: Replace the bathroom hand towel
+    category: bathroom
+    duration: 1 min
+    weight: 1
+
+  # Laundry
+  - name: Put on a load of washing
+    category: laundry
+    duration: 3 min
+    weight: 2
+
+  - name: Move washing to the dryer or line
+    category: laundry
+    duration: 3 min
+    weight: 2
+
+  - name: Fold and put away clean clothes
+    category: laundry
+    duration: 5 min
+    weight: 2
+
+  # Quick wins
+  - name: Wipe down the front door handle
+    category: quick
+    duration: 1 min
+    weight: 1
+
+  - name: Clear junk off the bedside table
+    category: quick
+    duration: 2 min
+    weight: 2
+
+  - name: Make the bed
+    category: bedroom
+    duration: 3 min
+    weight: 3
+
+  - name: Change the pillowcases
+    category: bedroom
+    duration: 3 min
+    weight: 1

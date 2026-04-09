@@ -1,0 +1,19 @@
+{
+  "abi_version": 1,
+  "assets": {
+    "scenes": [
+      {
+        "compile_profile": "default_world",
+        "id": "news_backdrop",
+        "label": "NewsBackdrop",
+        "path": "assets/world.glb"
+      }
+    ]
+  },
+  "author": "LUME",
+  "description": "News screen slide compiled from Rust to wasm32-wasip1",
+  "name": "News",
+  "params": {},
+  "scene_space": "screen_2d",
+  "version": "1.0.0"
+}

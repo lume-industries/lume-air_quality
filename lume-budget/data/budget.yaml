@@ -1,0 +1,44 @@
+# Monthly budget entries.
+# status: paid | spent | due | saved | recurring
+# type: housing | food | utilities | services | transport | savings | health | other
+
+budget:
+  - category: Rent
+    amount: "$1,800"
+    status: paid
+    type: housing
+
+  - category: Groceries
+    amount: "$320"
+    status: spent
+    type: food
+
+  - category: Electricity
+    amount: "$95"
+    status: due
+    type: utilities
+
+  - category: Internet
+    amount: "$70"
+    status: paid
+    type: utilities
+
+  - category: Subscriptions
+    amount: "$55"
+    status: paid
+    type: services
+
+  - category: Fuel
+    amount: "$120"
+    status: spent
+    type: transport
+
+  - category: Dining Out
+    amount: "$180"
+    status: spent
+    type: food
+
+  - category: Savings
+    amount: "$600"
+    status: saved
+    type: savings

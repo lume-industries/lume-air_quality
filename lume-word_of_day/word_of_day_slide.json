@@ -1,0 +1,19 @@
+{
+  "abi_version": 1,
+  "assets": {
+    "scenes": [
+      {
+        "compile_profile": "default_world",
+        "id": "word_of_day_backdrop",
+        "label": "WordOfDayBackdrop",
+        "path": "assets/world.glb"
+      }
+    ]
+  },
+  "author": "LUME",
+  "description": "Word Of Day screen slide compiled from Rust to wasm32-wasip1",
+  "name": "Word Of Day",
+  "params": {},
+  "scene_space": "screen_2d",
+  "version": "1.0.0"
+}

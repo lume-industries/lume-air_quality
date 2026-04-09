@@ -1,0 +1,19 @@
+{
+  "abi_version": 1,
+  "assets": {
+    "scenes": [
+      {
+        "compile_profile": "default_world",
+        "id": "on_this_day_backdrop",
+        "label": "OnThisDayBackdrop",
+        "path": "assets/world.glb"
+      }
+    ]
+  },
+  "author": "LUME",
+  "description": "On This Day screen slide compiled from Rust to wasm32-wasip1",
+  "name": "On This Day",
+  "params": {},
+  "scene_space": "screen_2d",
+  "version": "1.0.0"
+}

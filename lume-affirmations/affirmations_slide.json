@@ -1,0 +1,19 @@
+{
+  "abi_version": 1,
+  "assets": {
+    "scenes": [
+      {
+        "compile_profile": "default_world",
+        "id": "affirmations_backdrop",
+        "label": "AffirmationsBackdrop",
+        "path": "assets/world.glb"
+      }
+    ]
+  },
+  "author": "LUME",
+  "description": "Affirmations screen slide compiled from Rust to wasm32-wasip1",
+  "name": "Affirmations",
+  "params": {},
+  "scene_space": "screen_2d",
+  "version": "1.0.0"
+}

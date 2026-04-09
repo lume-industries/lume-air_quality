@@ -1,0 +1,19 @@
+{
+  "abi_version": 1,
+  "assets": {
+    "scenes": [
+      {
+        "compile_profile": "default_world",
+        "id": "calendar_backdrop",
+        "label": "CalendarBackdrop",
+        "path": "assets/world.glb"
+      }
+    ]
+  },
+  "author": "LUME",
+  "description": "Calendar screen slide compiled from Rust to wasm32-wasip1",
+  "name": "Calendar",
+  "params": {},
+  "scene_space": "screen_2d",
+  "version": "1.0.0"
+}

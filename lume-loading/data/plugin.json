@@ -1,0 +1,15 @@
+{
+  "id": "loading",
+  "name": "loading",
+  "description": "Loading slide",
+  "version": "1.0.0",
+  "core": true,
+  "enabled": true,
+  "jobs": [],
+  "slides": [
+    {
+      "name": "Loading",
+      "background": "shimmer",
+    }
+  ]
+}

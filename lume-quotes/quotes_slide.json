@@ -1,0 +1,19 @@
+{
+  "abi_version": 1,
+  "assets": {
+    "scenes": [
+      {
+        "compile_profile": "default_world",
+        "id": "quotes_backdrop",
+        "label": "QuotesBackdrop",
+        "path": "assets/world.glb"
+      }
+    ]
+  },
+  "author": "LUME",
+  "description": "Quotes screen slide compiled from Rust to wasm32-wasip1",
+  "name": "Quotes",
+  "params": {},
+  "scene_space": "screen_2d",
+  "version": "1.0.0"
+}

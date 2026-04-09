@@ -1,0 +1,57 @@
+[workspace]
+resolver = "2"
+
+# All slides share a single target/ directory at this level, eliminating the
+# repeated compilation of common dependencies (serde, serde_json, swash,
+# bytemuck, VRX-64-slide, vzglyd-text-slide, etc.) that ballooned disk use
+# when each slide was its own workspace.
+#
+# lume-air_quality is excluded — it has an unconventional layout (no root
+# Cargo.toml) and is managed separately.
+members = [
+    "lume-affirmations",
+    "lume-affirmations/preview",
+    "lume-afl",
+    "lume-afl/sidecar",
+    "lume-afl/preview",
+    "lume-budget",
+    "lume-budget/preview",
+    "lume-calendar",
+    "lume-calendar/sidecar",
+    "lume-calendar/preview",
+    "lume-chore",
+    "lume-chore/preview",
+    "lume-clock",
+    "lume-clock-retro",
+    "lume-dashboard",
+    "lume-dashboard/preview",
+    "lume-did_you_know",
+    "lume-did_you_know/preview",
+    "lume-flat",
+    "lume-flat/preview",
+    "lume-lastfm",
+    "lume-lastfm/sidecar",
+    "lume-lastfm/preview",
+    "lume-loading",
+    "lume-loading/preview",
+    "lume-news",
+    "lume-news/sidecar",
+    "lume-news/preview",
+    "lume-on_this_day",
+    "lume-on_this_day/sidecar",
+    "lume-on_this_day/preview",
+    "lume-quotes",
+    "lume-quotes/preview",
+    "lume-reminders",
+    "lume-reminders/sidecar",
+    "lume-reminders/preview",
+    "lume-servers",
+    "lume-servers/sidecar",
+    "lume-servers/preview",
+    "lume-weather",
+    "lume-weather/sidecar",
+    "lume-weather/preview",
+    "lume-word_of_day",
+    "lume-word_of_day/sidecar",
+    "lume-word_of_day/preview",
+]
